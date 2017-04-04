@@ -14,5 +14,4 @@ def get_md5(strings):
 if __name__ == '__main__':
     print get_md5("you are very beautiful")
     print get_md5("you aoe very beautiful")
-    print get_md5("you are my")
 
